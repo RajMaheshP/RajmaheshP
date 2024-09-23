@@ -1,4 +1,4 @@
-# Rajmahesh
+# Raj Mahesh
 [![An image of @rajmaheshp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajmaheshp)](https://holopin.io/@rajmaheshp)
 
 [![RajMaheshP's GitHub | Stats](https://stats.quine.sh/RajMaheshP/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RajMaheshP)
